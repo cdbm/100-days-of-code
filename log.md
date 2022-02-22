@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 21, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+- **GraphQL**: updated small side project with new models and some relations.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+    - **Thoughts:** to be fair i don't know the tradeoffs to use GraphQL, just trying to learn, but to write every model with nexus is kinda verbose, but i think it gets less boring with time.
 
-**Link to work:** [Calculator App](http://www.example.com)
+    - **Commit**: [Add new models](https://github.com/cdbm/bolao-api-graphql/commit/8681d8dfb0e606396cacb95deedbe938e7920cc6)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+- **Frontend Mentor QR code component**: coded the challenge to make a responsive qr code component using html and css.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+    - **Thoughts:** it was good to brush up some css, but still thinking if this aproach will help me with css concepts or if i will be searching "center div" forever, let's see;
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+    - **Project**: [QR code component](https://github.com/cdbm/frontend-challenges/tree/main/qr-code-component)
