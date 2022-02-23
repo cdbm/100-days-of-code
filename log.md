@@ -14,3 +14,13 @@
     - **Thoughts:** it was good to brush up some css, but still thinking if this aproach will help me with css concepts or if i will be searching "center div" forever, let's see;
 
     - **Project**: [QR code component](https://github.com/cdbm/frontend-challenges/tree/main/qr-code-component)
+
+### Day 2: February 22, 2022
+
+**Today's Progress**: 
+
+- **Frontend Mentor NFT card component**: started the challenge to make a responsive NFT card component.
+
+    - **Thoughts:** kinda like the yersteday's one but this thime I centered using flexbox so it's a advance.
+
+    - **Project:** [NFT compnent](https://github.com/cdbm/frontend-challenges/tree/main/nft-preview-card-component)
