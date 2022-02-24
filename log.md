@@ -24,3 +24,7 @@
     - **Thoughts:** kinda like the yersteday's one but this thime I centered using flexbox so it's a advance.
 
     - **Project:** [NFT compnent](https://github.com/cdbm/frontend-challenges/tree/main/nft-preview-card-component)
+
+### Day 3: February 23, 2022
+
+- **Vue.js** : started to study and get used to vue.js
