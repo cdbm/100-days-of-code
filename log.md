@@ -28,3 +28,7 @@
 ### Day 3: February 23, 2022
 
 - **Vue.js** : started to study and get used to vue.js
+
+### Day 4: February 24, 2022
+
+- **Spring Boot** : started a small spring boot service to study how to retrieve XML files and display currency prices and exchange rates.
