@@ -32,3 +32,7 @@
 ### Day 4: February 24, 2022
 
 - **Spring Boot** : started a small spring boot service to study how to retrieve XML files and display currency prices and exchange rates.
+
+### Day 5: February 27, 2022
+
+- **Spring Boot** : added new funcionalitites into spring boot service, studied how to exchange between currencies and added swagger ui.
