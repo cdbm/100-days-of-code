@@ -36,3 +36,11 @@
 ### Day 5: February 27, 2022
 
 - **Spring Boot** : added new funcionalitites into spring boot service, studied how to exchange between currencies and added swagger ui.
+
+### Day 6: February 28, 2022
+
+- **Swagger** : Added Swagger and Swagger UI to spring boot project.
+
+### Day 7: March 2, 2022
+
+- **Docker** : Created a Docker and Docker compose file to run the spring boot project in a standalone container
